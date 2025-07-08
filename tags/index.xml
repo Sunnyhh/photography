@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Photography Portfolio - Sunny</title>
+    <link>https://sunnyhh.github.io/photography/tags/</link>
+    <description>Recent content in Tags on Photography Portfolio - Sunny</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>sunnyhh051008@gmail.com (Ge (Sunny) Li)</managingEditor>
+    <webMaster>sunnyhh051008@gmail.com (Ge (Sunny) Li)</webMaster><atom:link href="https://sunnyhh.github.io/photography/tags/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
